@@ -5,10 +5,10 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 }
 body {
 	-epub-hyphens:auto;
-	margin-top: 60px;
-	margin-bottom: 60px;
-	margin-left: 140px;
-	margin-right: 140px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	margin-left: 20px;
+	margin-right: 20px;
 	background-color: white;
 }
 div.Marco-de-texto-b-sico {
