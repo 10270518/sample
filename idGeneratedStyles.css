@@ -5,6 +5,11 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 }
 body {
 	-epub-hyphens:auto;
+	margin-top: 60px;
+	margin-bottom: 60px;
+	margin-left: 140px;
+	margin-right: 140px;
+	background-color: white;
 }
 div.Marco-de-texto-b-sico {
 	border-style:solid;
@@ -16,7 +21,7 @@ p._0_lecturas-rec {
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
-	line-height:1.083;
+	line-height:1.6;
 	margin-bottom:3px;
 	margin-left:15px;
 	margin-right:0;
