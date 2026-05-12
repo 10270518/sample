@@ -1,11 +1,11 @@
 @font-face {
     font-family: 'NewCenturySchlbk';
-    src: url('../NewCenturyScbk.ttf');
+    src: url('NewCenturyScbk.ttf');
 }
 
 @font-face {
     font-family: 'PageSansTF-Bold';
-    src: url('../PSnBdTf_.ttf');
+    src: url('PSnBdTf_.ttf');
 }
 body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	margin:0;
@@ -49,7 +49,7 @@ p._0_lecturas-rec {
 }
 p._1_tit_lecturas {
 	color:#000000;
-	font-family:PageSansTF-Bold, sans-serif;
+	font-family:'PageSansTF-Bold', sans-serif;
 	font-size:16px;
 	font-style:normal;
 	font-variant:normal;
@@ -70,7 +70,7 @@ p._1_tit_lecturas {
 }
 p._2_cap_referencias {
 	color:#000000;
-	font-family:PageSansTF-Bold, sans-serif;
+	font-family:'PageSansTF-Bold', sans-serif;
 	font-size:17px;
 	font-style:normal;
 	font-variant:normal;
