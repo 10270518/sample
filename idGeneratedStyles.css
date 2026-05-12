@@ -108,16 +108,3 @@ span.CharOverride-1 {
 	color:#006fb7;
 	text-decoration:underline;
 }
-@media (max-width: 768px) {
-
-	body{
-		padding-left: 12px;
-		padding-right: 12px;
-	}
-
-	p._0_lecturas-rec{
-		font-size: 15px;
-		line-height: 1.5;
-	}
-
-}
