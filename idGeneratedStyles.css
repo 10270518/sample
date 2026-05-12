@@ -12,17 +12,13 @@ body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
 	padding:0;
 	border-width:0;
 }
-body {
-	-epub-hyphens:auto;
-	margin-top: 20px;
-	margin-bottom: 20px;
-	margin-left: auto;
-	margin-right: auto;
-	padding-left: 20px;
-	padding-right: 20px;
-	max-width: 1000px;
-	box-sizing: border-box;
-	background-color: white;
+body { -epub-hyphens:auto; 
+	  margin-top: 20px; 
+	  margin-bottom: 20px; 
+	  margin-left: 20px; 
+	  margin-right: 20px;
+	  box-sizing: border-box;
+	  background-color: white; 
 }
 div.Marco-de-texto-b-sico {
 	border-style:solid;
